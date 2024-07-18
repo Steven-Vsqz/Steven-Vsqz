@@ -8,7 +8,7 @@
 <h2>📑 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
-- [Qualys Vulnerability Management Certificate]()
+- [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
