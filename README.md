@@ -7,7 +7,8 @@
 
 <h2>📑 Certifications</h2>
 
-- [Google Cybersecurity Certificate](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate]()
+- [Qualys Vulnerability Management Certificate]()
 
 
 <h2> 🤳 Connect with me:</h2>
