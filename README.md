@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Steven-Vsqz/HoneypotHomeLab)
-- [Active Directory Home Lab](https://github.com/Steven-Vsqz/lab)
+- [Active Directory Home Lab](https://github.com/Steven-Vsqz/la)
 
 
 <h2>📑 Certifications</h2>
