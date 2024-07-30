@@ -11,6 +11,10 @@
 - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
 - [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
 
+<h2>🖥️ Javascript Projects</h2>
+
+- [Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+
 
 <h2> 🤳 Connect with me:</h2>
 
