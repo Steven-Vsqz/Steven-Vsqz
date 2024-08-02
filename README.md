@@ -4,17 +4,27 @@
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Steven-Vsqz/HoneypotHomeLab)
 - [Active Directory Home Lab](https://github.com/Steven-Vsqz/la)
+- [Wireshark](https://github.com/Steven-Vsqz/la)
+- [Tcpdump](https://github.com/Steven-Vsqz/la)
+- [Splunk](https://github.com/Steven-Vsqz/la)
+- [Snort](https://github.com/Steven-Vsqz/la)
+- [File Integrity Monitor](https://github.com/Steven-Vsqz/la)
+- [Vulnerability Management](https://github.com/Steven-Vsqz/la)
+- [Build a simple rest API](https://github.com/Steven-Vsqz/la)
+- [SIEM](https://github.com/Steven-Vsqz/la)
 
 
 <h2>📑 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
 - [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
+- [Security+](https://github.com/Steven-Vsqz/la)
 
-<h2>🖥️ Javascript Projects</h2>
+<h2>🖥️ Coding Projects</h2>
 
-- [Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
-
+- [Python](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+- [Javascript - Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+- [C#](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
 
 <h2> 🤳 Connect with me:</h2>
 
