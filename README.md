@@ -12,28 +12,28 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Steven-Vsqz/HoneypotHomeLab)
-- [Active Directory Home Lab](https://github.com/Steven-Vsqz/la)
-- [Wireshark](https://github.com/Steven-Vsqz/la)
-- [Tcpdump](https://github.com/Steven-Vsqz/la)
-- [Splunk](https://github.com/Steven-Vsqz/la)
-- [Snort](https://github.com/Steven-Vsqz/la)
-- [File Integrity Monitor](https://github.com/Steven-Vsqz/la)
-- [Vulnerability Management](https://github.com/Steven-Vsqz/la)
-- [Build a simple rest API](https://github.com/Steven-Vsqz/la)
-- [SIEM](https://github.com/Steven-Vsqz/la)
+- [Active Directory Home Lab]()
+- [Wireshark]()
+- [Tcpdump]()
+- [Splunk]()
+- [Snort]()
+- [File Integrity Monitor]()
+- [Vulnerability Management]()
+- [Build a simple rest API]()
+- [SIEM]()
 
 
 <h2>📑 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
 - [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
-- [Security+](https://github.com/Steven-Vsqz/la)
+- [Security+]()
 
 <h2>🖥️ Coding Projects</h2>
 
-- [Python](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+- [Python]()
 - [Javascript - Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
-- [C#](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+- [C#]()
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
