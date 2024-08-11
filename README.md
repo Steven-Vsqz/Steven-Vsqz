@@ -1,27 +1,29 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Steven+Vasquez!;" /></h1>
 <h3 align="center">I am a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I have a passion for digital forensics, threat hunting, and incident response. Currently, I am building my security analyst skills through various CTFs, certifications, and projects/labs.</h3>
 
+<div align="center">
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+
+<img src="https://komarev.com/ghpvc/?username=steven-vsqz&label=Profile%20views&color=0e75b6&style=flat" alt="steven-vsqz" />
+
   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steven-vsqz&label=Profile%20views&color=0e75b6&style=flat" alt="steven-vsqz" /> </p>
-
-- 🔭 I’m currently working on **get my Security+ Cert**
-
-- 🌱 I’m currently learning **Active Directory Environment**
-
-- 📫 How to reach me **sv71291@gmail.com**
-  
-<h3 align="center">Languages-Frameworks-Tools:</h3>
-<p align="center">
+<h3>Languages-Frameworks-Tools:</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,js,css,html,mysql,linux,powershell,unity,unreal,godot,vscode,windows,discord,github, linkedin" />
   </a>
-</p>
+  
+🔭 I’m currently working on **get my Security+ Cert**
+
+🌱 I’m currently learning **Active Directory Environment**
+
+📫 How to reach me **sv71291@gmail.com**
+
+</div>
+<hr>
 
 <details open> 
   <summary><h2>👨‍💻 Cybersecurity Projects:</h2></summary>
