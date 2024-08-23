@@ -31,6 +31,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Steven-Vsqz/HoneypotHomeLab)
   - [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project)
   - [Wireshark](https://github.com/Steven-Vsqz/Wireshark_Projects/tree/main)
+  <!--  
   - [Tcpdump]()
   - [Splunk]()
   - [Snort]()
@@ -38,6 +39,7 @@
   - [Vulnerability Management]()
   - [Build a simple rest API]()
   - [SIEM]()
+  --->
     
 </details>
   
@@ -53,9 +55,14 @@
 <details open> 
   <summary><h2>🖥️ Coding Projects:</h2></summary>
   
-  - [Python]()
   - [Javascript - Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+    <!--
+    
+  - [Python]()
   - [C#]()
+    
+    -->
+    
 
 </details>
 
