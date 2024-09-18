@@ -18,7 +18,7 @@
   
 🔭 I’m currently working on **get my Security+ Cert**
 
-🌱 I’m currently learning **Active Directory Environment**
+🌱 I’m currently learning **Splunk**
 
 📫 How to reach me **sv71291@gmail.com**
 
