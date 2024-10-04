@@ -47,7 +47,7 @@
   <summary><h2>📑 Certifications:</h2></summary>
 
   - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
-  - [FEMA National Incident Management System (NIMS): ICS-100]()
+  - [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/Steven-Vsqz/ICS-100_Cert/tree/main)
   - [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
   - [Security+] - in progress
 
