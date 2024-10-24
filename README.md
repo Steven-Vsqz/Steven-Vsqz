@@ -13,7 +13,7 @@
   
 <h3>Languages-Frameworks-Tools:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,css,html,mysql,linux,powershell,unity,unreal,godot,vscode,windows,discord,github,linkedin" />
+    <img src="https://skillicons.dev/icons?i=py,cs,js,css,html,mysql,linux,powershell,unity,unreal,godot,vscode,windows,discord,github" />
   </a>
   
 🔭 I’m currently working on **get my Security+ Cert**
