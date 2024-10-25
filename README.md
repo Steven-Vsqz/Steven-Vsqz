@@ -28,7 +28,7 @@
 <details open> 
   <summary><h2>👨‍💻 Cybersecurity Projects:</h2></summary>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Steven-Vsqz/HoneypotHomeLab)
+  - [SOC and Honeynet Implementation in Azure](https://github.com/Steven-Vsqz/HoneypotHomeLab)
   - [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project)
   - [File Integrity Monitoring Lab](https://github.com/Steven-Vsqz/File-Integrity-Monitoring-Lab/tree/main)
   - [Wireshark](https://github.com/Steven-Vsqz/Wireshark_Projects/tree/main)
