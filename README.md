@@ -32,6 +32,7 @@
   - [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project)
   - [File Integrity Monitoring Lab](https://github.com/Steven-Vsqz/File-Integrity-Monitoring-Lab/tree/main)
   - [Nessus Vulnerability Scanner Lab](https://github.com/Steven-Vsqz/Nessus-Vulnerability-Project)
+  - [Mastercard's Cybersecurity Job Simulation on Forage](https://github.com/Steven-Vsqz/Forage-Mastercard-Cybersecurity/tree/main)
   - [Wireshark](https://github.com/Steven-Vsqz/Wireshark_Projects/tree/main)
   <!--  
   - [Tcpdump]()
