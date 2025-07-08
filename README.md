@@ -75,8 +75,8 @@ I'm actively growing my skillset with **certifications, technical labs, and proj
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/steven-vsqz)
+[![Email](https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sv71291@gmail.com)
 
 ---
 
