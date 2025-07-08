@@ -1,79 +1,85 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Steven+Vasquez!;" /></h1>
-<h3 align="center">I am a motivated security analyst seeking an entry-level cybersecurity position to apply my skills in network security, security policy, and organizational risk management. I have a passion for digital forensics, threat hunting, and incident response. Currently, I am building my security analyst skills through various CTFs, certifications, and projects/labs.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hi+There!+👋;+I'm+Steven+Vasquez!" alt="Typing SVG" />
+</h1>
 
-<div align="center">
+<p align="center">
+  🚀 Aspiring Cybersecurity Analyst | Digital Forensics • Threat Hunting • Incident Response  
+  <br>
+  🎯 Seeking Entry-Level Roles • Security+ In Progress • Hands-On Labs & Projects Enthusiast
+</p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+---
 
-<img src="https://komarev.com/ghpvc/?username=steven-vsqz&label=Profile%20views&color=0e75b6&style=flat" alt="steven-vsqz" />
+## 🧠 About Me
 
-  
-<h3>Languages-Frameworks-Tools:</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cs,js,css,html,mysql,linux,powershell,unity,unreal,godot,vscode,windows,discord,github" />
-  </a>
-  
-🔭 I’m currently working on **get my Security+ Cert**
+I’m a passionate and highly motivated **junior cybersecurity professional** focused on building foundational experience in:
 
-🌱 I’m currently learning **Splunk**
+- 🔐 Network Security & Security Policy
+- ⚠️ Threat Detection, Risk Management, and Incident Response
+- 🧪 Capture-the-Flag (CTF) Challenges & Blue Team Tactics
+- 🛠️ Vulnerability Scanning, SIEM, and Monitoring Tools
 
-📫 How to reach me **sv71291@gmail.com**
+I'm actively growing my skillset with **certifications, technical labs, and project-based learning** — aiming to break into a **SOC Analyst / Cybersecurity Analyst** role.
 
-</div>
-<hr>
+---
 
-<details open> 
-  <summary><h2>👨‍💻 Cybersecurity Projects:</h2></summary>
+## 📂 Featured Projects
 
-  - [SOC and Honeynet Implementation in Azure](https://github.com/Steven-Vsqz/HoneypotHomeLab)
-  - [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project)
-  - [File Integrity Monitoring Lab](https://github.com/Steven-Vsqz/File-Integrity-Monitoring-Lab/tree/main)
-  - [Nessus Vulnerability Scanner Lab](https://github.com/Steven-Vsqz/Nessus-Vulnerability-Project)
-  - [Mastercard's Cybersecurity Job Simulation on Forage](https://github.com/Steven-Vsqz/Forage-Mastercard-Cybersecurity/tree/main)
-  - [Wireshark](https://github.com/Steven-Vsqz/Wireshark_Projects/tree/main)
-  <!--  
-  - [Tcpdump]()
-  - [Splunk]()
-  - [Snort]()
-  - [File Integrity Monitor]()
-  - [Vulnerability Management]()
-  - [Build a simple rest API]()
-  - [SIEM]()
-  --->
-    
-</details>
-  
-<details open> 
-  <summary><h2>📑 Certifications:</h2></summary>
+> Hands-on labs and simulations demonstrating practical, real-world security skills.
 
-  - [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
-  - [FEMA National Incident Management System (NIMS): ICS-100](https://github.com/Steven-Vsqz/ICS-100_Cert/tree/main)
-  - [Qualys Vulnerability Management Certificate](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
-  - [Security+] - in progress
+- 🔭 [SOC + Honeynet in Azure](https://github.com/Steven-Vsqz/HoneypotHomeLab) – Azure-deployed honeypots, logging & threat detection
+- 🧑‍💻 [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project) – Domain controller setup, GPOs, lateral movement simulation
+- 🔍 [File Integrity Monitoring](https://github.com/Steven-Vsqz/File-Integrity-Monitoring-Lab/tree/main) – File auditing and real-time alerting
+- 🔎 [Nessus Vulnerability Lab](https://github.com/Steven-Vsqz/Nessus-Vulnerability-Project) – Vulnerability scanning and prioritization workflow
+- 🎯 [Mastercard Forage Simulation](https://github.com/Steven-Vsqz/Forage-Mastercard-Cybersecurity/tree/main) – Threat reporting & awareness training
+- 📡 [Wireshark Packet Analysis](https://github.com/Steven-Vsqz/Wireshark_Projects/tree/main) – Traffic inspection & analysis examples
 
-</details>
+---
 
-<details open> 
-  <summary><h2>🖥️ Coding Projects:</h2></summary>
-  
-  - [Javascript - Foundry VTT Macros](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
-    <!--
-    
-  - [Python]()
-  - [C#]()
-    
-    -->
-    
+## 🏅 Certifications
 
-</details>
+> Demonstrating verified cybersecurity knowledge from trusted organizations.
 
+- 📜 [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
+- 🛡️ [FEMA ICS-100: Incident Command System](https://github.com/Steven-Vsqz/ICS-100_Cert/tree/main)
+- 🧰 [Qualys VMDR: Vulnerability Management](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
+- ⏳ CompTIA Security+ *(in progress)*
 
+---
 
+## 🛠️ Skills & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/steven-m-vasquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="steven-m-vasquez" height="30" width="40" /></a>
+![Python](https://skillicons.dev/icons?i=py)
+![C#](https://skillicons.dev/icons?i=cs)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Linux](https://skillicons.dev/icons?i=linux)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PowerShell](https://skillicons.dev/icons?i=powershell)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Windows](https://skillicons.dev/icons?i=windows)
+
+> Tools: Wireshark, Nessus, Splunk *(learning)*, Azure, Snort, AD, Filebeat, Elastic Stack, Unity (game projects)
+
+---
+
+## 💻 Coding Projects
+
+> Showcasing scripting and automation with a focus on problem-solving.
+
+- 🔧 [Foundry VTT Macros (JS)](https://github.com/Steven-Vsqz/Foundry_VTT_Macro_Scripts)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=steven-vsqz&label=Profile%20views&color=0e75b6&style=flat" alt="steven-vsqz" />
 </p>
