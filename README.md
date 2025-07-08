@@ -43,6 +43,7 @@ I'm actively growing my skillset with **certifications, technical labs, and proj
 - 📜 [Google Cybersecurity Certificate](https://github.com/Steven-Vsqz/GoogleCybersecrityCertificate)
 - 🛡️ [FEMA ICS-100: Incident Command System](https://github.com/Steven-Vsqz/ICS-100_Cert/tree/main)
 - 🧰 [Qualys VMDR: Vulnerability Management](https://github.com/Steven-Vsqz/QualysVMDRCertificate/tree/main)
+- 🛡️ [SOC Analyst Fundamentals]()
 - ⏳ CompTIA Security+ *(in progress)*
 
 ---
