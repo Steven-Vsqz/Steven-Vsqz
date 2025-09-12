@@ -28,7 +28,7 @@ I'm actively growing my skillset with **certifications, technical labs, and proj
 > Hands-on labs and simulations demonstrating practical, real-world security skills.
 
 - 👨‍💻 [SOC + Honeynet in Azure](https://github.com/Steven-Vsqz/HoneypotHomeLab) – Azure-deployed honeypots, logging & threat detection
-- 🧑‍💻 [Active Directory Home Lab](https://github.com/Steven-Vsqz/Active-Directory-Project) – Domain controller setup, GPOs, lateral movement simulation
+- 🧑‍💻 [Brute Force Detection with Splunk & Sysmon](https://github.com/Steven-Vsqz/Brute-Force-Detection-Lab) – Simulated RDP brute-force detection, Sysmon telemetry with Splunk
 - 🧑‍💻 [Windows 11 Hardening](https://github.com/Steven-Vsqz/Windows-11-Hardening-Project/tree/main) – Endpoint Hardening and best practices 
 - 👨‍💻 [File Integrity Monitoring](https://github.com/Steven-Vsqz/File-Integrity-Monitoring-Lab/tree/main) – File auditing and real-time alerting
 - 👨‍💻 [Nessus Vulnerability Lab](https://github.com/Steven-Vsqz/Nessus-Vulnerability-Project) – Vulnerability scanning and prioritization workflow
