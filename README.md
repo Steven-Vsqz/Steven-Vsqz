@@ -50,17 +50,7 @@ I'm actively growing my skillset with **certifications, technical labs, and proj
 
 ## 🛠️ Skills & Tools
 
-![Python](https://skillicons.dev/icons?i=py)
-![C#](https://skillicons.dev/icons?i=cs)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Linux](https://skillicons.dev/icons?i=linux)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PowerShell](https://skillicons.dev/icons?i=powershell)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Windows](https://skillicons.dev/icons?i=windows)
+[![My Skills](https://skillicons.dev/icons?i=cs,css,html,js,kali,linux,powershell,py,windows)](https://skillicons.dev)
 
 > Tools: Wireshark, Nessus, Splunk *(learning)*, Azure, Snort, AD, Filebeat, Elastic Stack, Unity (game projects)
 
