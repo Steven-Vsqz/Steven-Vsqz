@@ -10,7 +10,7 @@
 
 ---
 
-<h3>Alerts</h3>
+<h2 align="center">Alert Investigations</h2>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -30,6 +30,8 @@
 	<tr>
       <td><a href="https://github.com/Steven-Vsqz/Suspicious_Xls_Malware"><b>ORDER SHEET & SPEC.xlsm Malware</b></a></td>
 	  <td><b>Medium</b></td>
+	  <td><a href="https://github.com/Steven-Vsqz/LS_Command"><b>LS Command Injection</b></a></td>
+	  <td><b>High</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected-Invoice.exe-"><b>Invoice.exe Malware</b></a></td>
