@@ -15,29 +15,38 @@
   <thead align="center">
     <tr border: none;>
       <td><b>Malware</b></td>
-      <td><b>Others</b></td>
+	  <td><b>Severity</b></td>
+      <td><b>Web Attacks</b></td>
+	  <td><b>Severity</b></td>
      </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Steven-Vsqz/Emotet_Malware_Detected"><b>1word.doc Malware</b></a></td>
+	  <td><a href="https://github.com/Steven-Vsqz/Emotet_Malware_Detected"><b>1word.doc Malware</b></a></td>
+	  <td><b>Medium</b></td>
+	  <td><a href="https://github.com/Steven-Vsqz/Palo_Alto_Command_Injection"><b>Palo Alto Command Injection</b></a></td>
+	  <td><b>Critical</b></td>
     </tr>
-	  <tr>
+	<tr>
       <td><a href="https://github.com/Steven-Vsqz/Suspicious_Xls_Malware"><b>ORDER SHEET & SPEC.xlsm Malware</b></a></td>
+	  <td><b>Medium</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected-Invoice.exe-"><b>Invoice.exe Malware</b></a></td>
+	  <td><b>High</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected_winrar600"><b>Winrar600 Malware</b></a></td>
+	  <td><b>Medium</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Ransomware_Detected"><b>ab.exe Ransomware</b></a></td>
+	  <td><b>Critical</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/-Malicious_File_Script_Download"><b>INVOICE PACKAGE LINK TO DOWNLOAD.docm Malware</b></a></td>
+	  <td><b>Medium</b></td>
     </tr>
-  
   </tbody>
 </table>
 
