@@ -36,6 +36,8 @@
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected-Invoice.exe-"><b>Invoice.exe Malware</b></a></td>
 	  <td><b>High</b></td>
+	  <td><a href="https://github.com/Steven-Vsqz/SQL_Injection_Payload"><b>SQL Injection Payload</b></a></td>
+	  <td><b>High</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected_winrar600"><b>Winrar600 Malware</b></a></td>
