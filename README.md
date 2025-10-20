@@ -10,6 +10,13 @@
 
 ---
 
+<p align="center">
+	<a href="steven-vsqz:sv71291@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+	<a href="https://www.linkedin.com/in/syeven-vsqz"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
+
+---
+
 <h2 align="center">Alert Investigations</h2>
 <table>
   <thead align="center">
