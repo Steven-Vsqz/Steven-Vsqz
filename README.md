@@ -109,13 +109,6 @@
 
 ---
 
-## 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/steven-vsqz)
-[![Email](https://img.shields.io/badge/Email-Send_Message-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sv71291@gmail.com)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=steven-vsqz&label=Profile%20views&color=0e75b6&style=flat" alt="steven-vsqz" />
 </p>
