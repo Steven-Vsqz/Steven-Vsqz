@@ -13,7 +13,9 @@
 <p align="center">
 	<a href="steven-vsqz:sv71291@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
 	<a href="https://www.linkedin.com/in/steven-vsqz"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+	<a href="https://app.letsdefend.io/user/sv71291"><img src="https://github.com/user-attachments/assets/a3275151-84ec-4cb8-9481-0f2fda831a3e" alt="linkedin"/></a>
 </p>
+
 
 ---
 
