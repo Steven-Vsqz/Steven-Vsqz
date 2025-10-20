@@ -42,6 +42,8 @@
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Malware_Detected_winrar600"><b>Winrar600 Malware</b></a></td>
 	  <td><b>Medium</b></td>
+	  <td><a href="https://github.com/Steven-Vsqz/LFI_Request"><b>LFI Payload</b></a></td>
+	  <td><b>High</b></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Steven-Vsqz/Ransomware_Detected"><b>ab.exe Ransomware</b></a></td>
